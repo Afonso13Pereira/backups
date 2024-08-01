@@ -1,0 +1,288 @@
+{
+    "backups": [
+        {
+            "bonusList": [
+                {
+                    "id": "1",
+                    "super": false,
+                    "name": "SPACE ZOO",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/1609c4b5-c6d3-432c-87e7-258587f6ad5e?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "2",
+                    "super": false,
+                    "name": "KEEP 'EM",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/dcd095e1-dedf-4fbb-bca7-d48dfda59114?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "3",
+                    "super": false,
+                    "name": "JELLY SLICE",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/13964cc1-718b-47c3-bd7b-8b988b2ac167?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "4",
+                    "super": false,
+                    "name": "CURSED SEAS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/14cd955b-1ddd-460b-94d4-d50724bda0f7?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "5",
+                    "super": false,
+                    "name": "TEMPLE OF TORMENT",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/2e7c919c-72ef-4458-bccb-291bf46ab6fd?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "6",
+                    "super": false,
+                    "name": "UNDEAD FORTUNE",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/3a86916d-d456-4185-b360-9ac1ea948c11?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "7",
+                    "super": false,
+                    "name": "GRONK'S GEMS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/285ae216-7b50-4af2-aa0d-5f1f973eba91?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "8",
+                    "super": false,
+                    "name": "DAWN OF KINGS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/e9386f3d-e31c-4381-9169-9a15d1b9f6e0?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "9",
+                    "super": true,
+                    "name": "BOUNCY BOMBS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/3425ba27-53f0-4304-a6af-9fbd7d487789?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "10",
+                    "super": false,
+                    "name": "MAYAN STACKWAYS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/e1d5d51d-456b-4d5a-9054-9cfac5e8e55d?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "11",
+                    "super": false,
+                    "name": "IMMORTAL DESIRE",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/9160ad88-72ee-46f5-907a-3d5d4fab37f2?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                }
+            ],
+            "worstBonus": {
+                "id": "TBD",
+                "super": false,
+                "name": "TBD",
+                "provider": "TBD",
+                "img": "https://i.imgur.com/CJgWstw.png",
+                "bet": "TBD",
+                "pay": "-",
+                "multi": "TBD"
+            },
+            "bestBonus": {
+                "id": "TBD",
+                "super": false,
+                "name": "TBD",
+                "provider": "TBD",
+                "img": "https://i.imgur.com/CJgWstw.png",
+                "bet": "TBD",
+                "pay": "-",
+                "multi": "TBD"
+            },
+            "bhID": "31",
+            "beInit": "131",
+            "be": "131",
+            "avg": "-",
+            "target": "5000",
+            "total": "0",
+            "activeBonus": "1",
+            "backupDate": "2024-07-31 23:26:30"
+        },
+        {
+            "bonusList": [
+                {
+                    "id": "1",
+                    "super": false,
+                    "name": "SPACE ZOO",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/1609c4b5-c6d3-432c-87e7-258587f6ad5e?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "2",
+                    "super": false,
+                    "name": "KEEP 'EM",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/dcd095e1-dedf-4fbb-bca7-d48dfda59114?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "3",
+                    "super": false,
+                    "name": "JELLY SLICE",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/13964cc1-718b-47c3-bd7b-8b988b2ac167?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "4",
+                    "super": false,
+                    "name": "CURSED SEAS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/14cd955b-1ddd-460b-94d4-d50724bda0f7?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "5",
+                    "super": false,
+                    "name": "TEMPLE OF TORMENT",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/2e7c919c-72ef-4458-bccb-291bf46ab6fd?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "6",
+                    "super": false,
+                    "name": "UNDEAD FORTUNE",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/3a86916d-d456-4185-b360-9ac1ea948c11?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "7",
+                    "super": false,
+                    "name": "GRONK'S GEMS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/285ae216-7b50-4af2-aa0d-5f1f973eba91?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "8",
+                    "super": false,
+                    "name": "DAWN OF KINGS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/e9386f3d-e31c-4381-9169-9a15d1b9f6e0?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "9",
+                    "super": true,
+                    "name": "BOUNCY BOMBS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/3425ba27-53f0-4304-a6af-9fbd7d487789?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "10",
+                    "super": false,
+                    "name": "MAYAN STACKWAYS",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/e1d5d51d-456b-4d5a-9054-9cfac5e8e55d?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                },
+                {
+                    "id": "11",
+                    "super": false,
+                    "name": "IMMORTAL DESIRE",
+                    "provider": "HACKSAW GAMING",
+                    "img": "https://images.shuffle.com/9160ad88-72ee-46f5-907a-3d5d4fab37f2?auto=format&width=548&q=40",
+                    "bet": "0,6",
+                    "pay": "",
+                    "multi": ""
+                }
+            ],
+            "worstBonus": {
+                "id": "TBD",
+                "super": false,
+                "name": "TBD",
+                "provider": "TBD",
+                "img": "https://i.imgur.com/CJgWstw.png",
+                "bet": "TBD",
+                "pay": "-",
+                "multi": "TBD"
+            },
+            "bestBonus": {
+                "id": "TBD",
+                "super": false,
+                "name": "TBD",
+                "provider": "TBD",
+                "img": "https://i.imgur.com/CJgWstw.png",
+                "bet": "TBD",
+                "pay": "-",
+                "multi": "TBD"
+            },
+            "bhID": "32",
+            "beInit": "131",
+            "be": "131",
+            "avg": "-",
+            "target": "5000",
+            "total": "0",
+            "activeBonus": "1",
+            "backupDate": "2024-07-31 23:26:34"
+        }
+    ]
+}
